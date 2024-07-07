@@ -1,0 +1,6 @@
+A,1,Venezuela,Jamaica,3,0,Rondon;Soteldo;Murillo,'',20;34;80,
+B,2,Brasil,Colombia,1,1,Vinicius;James,24,46
+C,3,Argentina,Uruguay,3,2,Messi;Di_Maria;Garnacho,Valverde;Godin,4;15;60,10;85
+A,4,Ecuador,Peru,1,1,Valencia,Guerrero,33,46
+A,5,Venezuela,Ecuador,2,0,Machiz;Rondon,'',26;49,
+C,6,Argentina,Canada,2,0,Messi;Messi,'',8;53,
